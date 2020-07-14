@@ -10,5 +10,4 @@
 
 ## Custom Video Player
 
-Seats selected with ticket amount and price at the bottom!
 <img src="https://imgur.com/jPwrRGF.png" width="800">
