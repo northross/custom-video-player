@@ -1,0 +1,20 @@
+{
+  "name": "custom-video-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d custom-video-player"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northross/custom-video-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northross/custom-video-player/issues"
+  },
+  "homepage": "https://northross.github.io/custom-video-player"
+}
